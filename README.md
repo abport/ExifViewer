@@ -10,7 +10,7 @@ Get ready to dive into the fascinating world of photography with EXIF Viewer! EX
 
 ## Privacy Policy
 
-We take your privacy seriously. To learn more about how we collect and use your personal information, please review our [privacy policy](https://chat.openai.com/chat/PRIVACY_POLICY.md).
+We take your privacy seriously. To learn more about how we collect and use your personal information, please review our [privacy policy]([https://chat.openai.com/chat/PRIVACY_POLICY.md](https://github.com/abport/ExifViewer/blob/main/PRIVACY_POLICY.md)).
 
 ## Contact Us
 
